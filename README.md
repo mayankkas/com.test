@@ -1,2 +1,1 @@
-# com.test
-test project
+config server test
